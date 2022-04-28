@@ -1,0 +1,20 @@
+{
+  "name": "@adoyle.me/prettier-config",
+  "version": "1.0.0",
+  "description": "A prettier config for ADoyle's projects",
+  "keywords": ["prettier"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ADoyle <adoyle.h@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/adoyle-h/prettier-config-adoyle-style",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adoyle-h/prettier-config-adoyle-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adoyle-h/prettier-config-adoyle-style/issues"
+  }
+}
