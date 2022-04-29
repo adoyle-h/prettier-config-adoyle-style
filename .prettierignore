@@ -1,3 +1,6 @@
 *.md
 *.markdown
 *.html
+*.yaml
+*.yml
+*.hbs
